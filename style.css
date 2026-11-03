@@ -94,8 +94,8 @@ article>h3:hover{
 
 .circle-1 * {
     color: rgb(72, 140, 150);
-
 }
+
 .circle-2 {
     width: 20rem;
     top: 50%;
@@ -104,12 +104,12 @@ article>h3:hover{
     align-items: center;
     padding-left: 12rem;
     font-size: 1.2rem;
-    /* gap: 1.5rem; */
 }
+
 .circle-2 * {
     color:  rgb(44, 78, 75);
-
 }
+
 .circle-3 {
     width: 15rem;
     top: 70%;
